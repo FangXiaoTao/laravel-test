@@ -39,6 +39,5 @@
         <div class="title">Hello Laravel! - by PK</div>
     </div>
 </div>
-
 </body>
 </html>
